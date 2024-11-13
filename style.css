@@ -1,0 +1,19 @@
+.list{
+     list-style: none;
+     /* width: 800px; */
+}
+
+.go-to{
+     padding-bottom: 10px;
+     padding-top: 10px;
+     align-items: center;
+     text-align: center;
+     font-size: xx-large;
+}
+.btn{
+     padding-bottom: 10px;
+     padding-top: 10px;
+     align-items: center;
+     text-align: center;
+     font-size: xx-large;    
+}
